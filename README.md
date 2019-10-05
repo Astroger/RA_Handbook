@@ -1,2 +1,3 @@
 # RA_Handbook
-How I become a student who know nothing.
+A Handbook about :
+How I become a student who know nothing about Radio Astronomy.
